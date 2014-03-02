@@ -1,0 +1,12 @@
+#ifndef VERSION_H
+#define VERSION_H
+
+/*
+ * This header file defines the version number for shadoe-qt when built with 
+ * cmake. The variable @shadoe-qt_version@ is replaced with the information of the
+ * variable of the same name in CMakeLists.txt. VERSION is the variable that 
+ * holds the information for shadoe-qt to read.
+ */
+
+#define VERSION @shadoe-qt_version@
+#endif

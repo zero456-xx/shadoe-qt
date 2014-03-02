@@ -1,0 +1,39 @@
+Other than the normal build dependcies as described in the README, shadoe-qt also
+requires CMake (instead of the usual autotools) in order to properly build and 
+create the program for installation and use.
+
+Once the proper build dependecies and CMake are installed, open a terminal and 
+change your current working directory to the the same directory from which this 
+file resides.
+
+For example, if you downloaded shadoe-qt as an archive (such as shadoe-qt-0.1.tar.bz2) 
+and extracted it to your home directory, type into your terminal:
+
+    cd ~/shadoe-qt-0.1
+
+Next type the following commands one after the other to build shadoe-qt (without 
+the quotes):
+
+    'cmake .'
+    'make'
+
+Finally, we install the program by typing:
+
+    make install
+
+Note you must have root privileges in order to install the program.  For 
+example, this can be done on Ubuntu-based distributions or Linux installations
+where the current user is part of the administrator group by typing:
+
+    sudo make install
+
+And entering the password for the current user.
+
+Or, for Fedora or other Linux installations with a root account type (_WITH_ the 
+quotes):
+
+    su -c 'make install'
+
+And enter the password for root.
+
+That's it!  Enjoy shadoe-qt!
