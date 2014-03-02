@@ -24,6 +24,6 @@ using namespace std;
 
 int main(int argc, char const *argv[])
 {
-	cout << "Woof woof!" << endl;
-	return 0;
+    cout << "Woof woof!" << endl;
+    return 0;
 }

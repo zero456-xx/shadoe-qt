@@ -1,7 +1,9 @@
 2014-04-02 Thomas Pifer <zero456@gmail.com>
-	
-	* README: Remove dependecies as there are none so far.
+    
+    * README: Remove dependecies as there are none so far.
+
+    * src/main.cpp: Change tab insertions to use spaces.
 
 2014-04-01 Thomas Pifer <zero456@gmail.com>
 
-	* Initial creation
+    * Initial creation
