@@ -4,6 +4,8 @@
 
     * src/main.cpp: Change tab insertions to use spaces.
 
+    * README.md: Converted README to README.md
+
 2014-04-01 Thomas Pifer <zero456@gmail.com>
 
     * Initial creation
