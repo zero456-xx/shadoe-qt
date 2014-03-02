@@ -9,10 +9,7 @@ changes) can be found in the file NEWS.
 For building and installation instructions, please see the file INSTALL.
 
 Dependencies for building:  
-  * pkg-config
-  * GTK+ 3 (>= 3.0)
-  * VTE3 (>= 0.32.1)
-  * CMake (>= 2.8)
+  * None yet!
 
 The two subdirectories, 'src' and 'doc', contain the source code files and 
 manual for Shadoe-qt, respectively.
@@ -20,5 +17,5 @@ manual for Shadoe-qt, respectively.
 Shadoe-qt is distributed under the terms of the GNU General Public License, 
 version 3.  For complete information, see the file COPYING.
 
-Shadoe-qt is dedicated to my ol' dog Shadow (aka, Doe-Doe) who was laid to rest in 
-July of 2011.
+Shadoe-qt is dedicated to my ol' dog Shadow (aka, Doe-Doe) who was laid to rest 
+in July of 2011.
