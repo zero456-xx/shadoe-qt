@@ -6,7 +6,7 @@ KDE libraries, making it great for GTK+ and QT-based desktops alike.
 Information about the current version of Shadoe-qt (including new features and 
 changes) can be found in the file [NEWS](./NEWS).
 
-For building and installation instructions, please see the file [INSTALL](./INSTALL)
+For building and installation instructions, please see the file [INSTALL](./INSTALL).
 
 Dependencies for building:
 
