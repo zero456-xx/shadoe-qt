@@ -1,3 +1,5 @@
+#Shadoe-qt ![Terminal](./src/terminal.png)
+
 Shadoe-qt is an in-development QT-based drop-down terminal emulator similar to 
 the consoles used in PC games such as Quake and Half-Life 2. Shadoe-qt is being 
 built from the ground up to be as lightweight as possible with no reliance on
@@ -8,7 +10,7 @@ changes) can be found in the file [NEWS](./NEWS).
 
 For building and installation instructions, please see the file [INSTALL](./INSTALL).
 
-Dependencies for building:
+####Dependencies for building:
 
 * None yet!
 
